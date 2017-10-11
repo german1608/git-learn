@@ -2,3 +2,7 @@ article.x {
   display: none;
   padding: 100%;
 }
+
+a.active {
+  background-color: blue;
+}
